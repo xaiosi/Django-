@@ -7,16 +7,16 @@
   因为我感觉一个项目建一个仓库太过于分散和乱，并且也不利于自己回头查看所以我建立了这个仓库统一存放。后期我会不断跟进，如果你感兴趣可以查看。
   
 ## **Menu:**
-  - **myproject
-    - **Board             ---论坛功能
+  - **myproject**
+    - **Board**             ---论坛功能
     - ......
-  - **待加入
+  - **待加入**
   
 ## **Literature：**
-  - **《Django从入门实践》
-  - **《Python从入门到时间》
-  - **<a href="https://www.bookstack.cn/">书栈网</a>
-  - **[Django-中文网](https://www.django.cn/)
-  - **[w3cschool](https://www.w3cschool.cn/)
+  - **《Django从入门实践》**
+  - **《Python从入门到时间》**
+  - **<a href="https://www.bookstack.cn/">书栈网</a>**
+  - **[Django-中文网](https://www.django.cn/)**
+  - **[w3cschool](https://www.w3cschool.cn/)**
   
  ## OVER  ->   THRANKS
