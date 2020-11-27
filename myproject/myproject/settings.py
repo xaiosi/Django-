@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     'boards' ,    #论坛app
     'widget_tweaks',
+    'accounts',
 ]
 
 MIDDLEWARE = [
