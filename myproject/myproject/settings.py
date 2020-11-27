@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'boards'     #论坛app
+    'boards' ,    #论坛app
+    'widget_tweaks',
 ]
 
 MIDDLEWARE = [
