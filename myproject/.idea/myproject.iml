@@ -16,6 +16,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.6 (PyEnv_django)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="5fe5f488f629d8ed6cb55fa7" level="application" />
+    <orderEntry type="library" name="5fe5f6e8f629d8ed6cb55fa9" level="application" />
+    <orderEntry type="library" name="5fe5f553f629d8ed6cb55fa8" level="application" />
+    <orderEntry type="library" name="5fe5fd90f629d8ed6cb55fac" level="application" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
